@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JamesHodgkins
 - 👀 I’m interested in CAD Software, Game Dev & Audio Programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on GreyhoundCAD
+- 🌱 I’m (always) currently learning to be a better programmer
+- 💞️ I’m looking to collaborate on [GreyhoundCAD](https://github.com/JamesHodgkins/GreyhoundCAD)
 - 📫 How to reach me jhodgkins@proton.me
 
 <!---
